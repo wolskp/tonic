@@ -27,8 +27,8 @@
     <tonalities>3</tonalities>
     <video name="CelineD5.mp4" size="2909229" type="video/mp4">280cd01c940b6ca16a2f18c25c7e5154751ebee475995878faa34c3e9f6dabed</video>
     <notes>
-      <note number="1" values="1" ticks="109" durationTicks="102" ppq="192" velocity="0.803"/>
-      <note number="2" values="18" ticks="248" durationTicks="137" ppq="192" velocity="0.803"/>
+      <note number="1" values="1" ticks="128" durationTicks="102" ppq="192" velocity="0.803"/>
+      <note number="2" values="18" ticks="256" durationTicks="123" ppq="192" velocity="0.803"/>
     </notes>
   </exercise>
   <exercise number="3">
