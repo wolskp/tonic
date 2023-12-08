@@ -2,7 +2,7 @@
 <level>
   <owner>wolskp</owner>
   <repo>tonic</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="wolskp" repo="tonic-harmonic"/>
   <readme>
     <ru>48621af3cd04fefef5755006ec1fee34ec15c0cc7a428b231d3bf6eb59bdeeb9</ru>
@@ -32,22 +32,15 @@
   </exercise>
   <exercise number="3">
     <scale>major</scale>
-    <bpm>120</bpm>
+    <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <video name="dance_silent1.mp4" size="1056551" type="video/mp4">3a80b8bf7d9f7e24b44c6b0c3182a9772a1d68aefda03bcc305d651e7be9c75a</video>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="185" ppq="192" velocity="0.219"/>
-      <note number="2" values="1" ticks="195" durationTicks="189" ppq="192" velocity="0.224"/>
-      <note number="3" values="1" ticks="385" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="4" values="1" ticks="576" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="5" values="1" ticks="768" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="6" values="1" ticks="960" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="7" values="1" ticks="1152" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="8" values="1" ticks="1344" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="9" values="1" ticks="1536" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="10" values="1" ticks="1728" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="11" values="1" ticks="1920" durationTicks="191" ppq="192" velocity="0.224"/>
-      <note number="12" values="1" ticks="2112" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="1" values="1" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
+      <note number="3" values="1" ticks="146" durationTicks="208" ppq="96" velocity="0.874"/>
+      <note number="4" values="18" ticks="196" durationTicks="161" ppq="96" velocity="0.921"/>
     </notes>
   </exercise>
   <exercise number="4">
@@ -83,6 +76,26 @@
     </notes>
   </exercise>
   <exercise number="6">
+    <scale>major</scale>
+    <bpm>120</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
+    <notes>
+      <note number="1" values="1" ticks="0" durationTicks="185" ppq="192" velocity="0.219"/>
+      <note number="2" values="1" ticks="195" durationTicks="189" ppq="192" velocity="0.224"/>
+      <note number="3" values="1" ticks="385" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="4" values="1" ticks="576" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="5" values="1" ticks="768" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="6" values="1" ticks="960" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="7" values="1" ticks="1152" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="8" values="1" ticks="1344" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="9" values="1" ticks="1536" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="10" values="1" ticks="1728" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="11" values="1" ticks="1920" durationTicks="191" ppq="192" velocity="0.224"/>
+      <note number="12" values="1" ticks="2112" durationTicks="191" ppq="192" velocity="0.224"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
     <scale>major</scale>
     <bpm>120</bpm>
     <lowestNote>1</lowestNote>
