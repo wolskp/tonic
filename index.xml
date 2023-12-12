@@ -2,11 +2,11 @@
 <level>
   <owner>wolskp</owner>
   <repo>tonic</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="wolskp" repo="tonic-harmonic"/>
   <readme>
-    <ru>48621af3cd04fefef5755006ec1fee34ec15c0cc7a428b231d3bf6eb59bdeeb9</ru>
-    <en>8053a4ca87e58ade61fcafe798973b02a60fc5d4e7ba3993eee99f941d57c48e</en>
+    <ru>366e37c0322559ef4b53a25b55fa00a9ca90b9f9defb79277951d68079e6de3e</ru>
+    <en>4c79af82732df8798e23a3c6e28889ec0f903228c49bc7cae1e6124b7ae23651</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
