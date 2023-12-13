@@ -48,7 +48,6 @@
     <bpm>80</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
-    <video name="CelineD5_0.mp4" size="316957" type="video/mp4">6bb1bbe59c6d206ec18cafdbe79208ec47a545752643e14167cb2ec0f68245c0</video>
     <notes>
       <note number="1" values="1,18" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
       <note number="2" values="1,18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
