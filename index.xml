@@ -2,8 +2,8 @@
 <level>
   <owner>wolskp</owner>
   <repo>tonic</repo>
-  <version>v1.0.18</version>
-  <next number="1" owner="wolskp" repo="tonic-harmonic"/>
+  <version>v1.0.19</version>
+  <next number="1" owner="wolskp" repo="master-and-servant-octaves"/>
   <readme>
     <ru>366e37c0322559ef4b53a25b55fa00a9ca90b9f9defb79277951d68079e6de3e</ru>
     <en>4c79af82732df8798e23a3c6e28889ec0f903228c49bc7cae1e6124b7ae23651</en>
@@ -15,8 +15,8 @@
     <lowestNote>1</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
-      <note number="1" values="1" ticks="0" durationTicks="185" ppq="192" velocity="0.694"/>
-      <note number="2" values="18" ticks="195" durationTicks="189" ppq="192" velocity="0.754"/>
+      <note number="1" values="1" ticks="0" durationTicks="105" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="56" durationTicks="91" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="2">
